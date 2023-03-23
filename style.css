@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #fff4e7;
+    margin-bottom: 150px;
+}
+
+nav{
+    display: flex;
+    width: 1200px;
+    height: 50px;
+    margin: 30px auto;
+    justify-content: end;
+    align-items: center;
+}
+
+nav h1{
+    font-size: 35px;
+    margin-right: 547px;
+    color: rgb(247, 142, 6);
+}
+
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    list-style-type: none;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+.head-div{
+    width: 870px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.primary-btn{
+    width: 190px;
+    border-radius: 5px;
+    background-color: rgb(250, 107, 5);
+    color: white;
+    margin-top: 40px;
+    font-size: 27px;
+    height: 70px;
+    border: none;
+}
+
+.banner{
+    width: 1000px;
+    margin: 60px auto;
+}
+
+.main-sec-1{
+    /* margin-bottom: 100px; */
+}
+.container1{
+    width: 870px;
+    margin: 0 auto;
+}
+
+.student1{
+    width: 520px;
+    float: left;
+}
+.student2{
+    width: 350px;
+    float: left;
+    margin-top: 200px;
+}
+
+.child1, .child2, .child3, .child4{
+    width: 250px;
+    float: left;
+}
+
+    
+.child5{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: -120px;
+    margin-bottom: 100px;
+}
+
+.main-sec-2{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 550px;
+}
+.div10, .div11{
+    width: 500px;
+    float: left;
+}
+
+.div10-child{
+    width: 400px;
+}
+
+small{
+    color: dimgray;
+}
+
+.w1, .w2, .w3, .w4, .w5{
+    box-shadow: 2px 2px 10px gray;
+    padding: 18px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.written{
+    margin-top: 100px;
+}
+
+.icon1, .icon2, .icon3{
+    margin-right: 170px;
+    width: 95px;
+}
+
+.icon4{
+    width: 95px;
+}
+
+.last-div{
+    width: 1100px;
+    margin: 30px auto;
+    display: flex;
+    gap: 80px;
+}
+
+.footer{
+    width: 500px;
+    background-color: rgb(247, 210, 210);
+    margin: 150px auto 50px;
+    text-align: center;
+}
